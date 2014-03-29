@@ -1,7 +1,6 @@
 Babel
 =====
-Babel Client in C++ with Qt Library 4.7
-Portaudio Library
+Babel Client in C++ with Qt Framework (4.7)
 
 Epitech Project
 

@@ -2,7 +2,7 @@ Babel
 =====
 Babel Client in C++ with Qt Framework (4.7)
 
-Epitech Project http://www.epitech.eu/
+Epitech Project (http://www.epitech.eu)
 
 Subject:
 
